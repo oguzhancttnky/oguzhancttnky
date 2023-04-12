@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cscengaver1111&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" /></div>
 
 <!--
 **oguzhancttnky/oguzhancttnky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
